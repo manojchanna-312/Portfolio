@@ -18,15 +18,15 @@ const HeroSection = () => {
             
             <h3 className="text-3xl md:text-4xl font-bold text-foreground animate-fade-in-up flex items-center" style={{ animationDelay: '0.1s' }}>
               <span className="w-12 h-1 bg-primary mr-4" />
-              I'm Tatineni Karthik Sai
+              I'm Channa Venkata Sai Manoj
             </h3>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-foreground animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-              VLSI, Embedded & IoT Enthusiast
+              Student
             </h1>
             
             <p className="text-lg text-muted-foreground max-w-xl animate-fade-in-up" style={{ animationDelay: '0.3s' }}>
-              A passionate ECE engineer with a knack for VLSI, Embedded Systems, automation, and intelligent systems.
+             A passionate software engineering student with a strong interest in , software development, AI, cybersecurity, and problem-solving.
             </p>
             
             <div className="flex flex-wrap gap-4 pt-4 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
@@ -50,7 +50,7 @@ const HeroSection = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/30 animate-pulse-glow">
                 <img
                   src={profilePhoto}
-                  alt="Karthik Tatineni"
+                  alt=" Manoj"
                   className="w-full h-full object-cover"
                 />
               </div>

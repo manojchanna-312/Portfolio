@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a href="#" className="text-xl font-bold text-foreground">
-            Karthik<span className="text-primary">.</span>
+            Manoj<span className="text-primary">.</span>
           </a>
 
           {/* Desktop Nav */}

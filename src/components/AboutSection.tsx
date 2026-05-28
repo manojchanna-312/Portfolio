@@ -3,13 +3,15 @@ import { useRef } from 'react';
 import { useScrollAnimation } from '@/hooks/useScrollAnimation';
 
 const leftContent = [
-  "I'm Karthik Tatineni, an Electronics and Communication Engineering student at IARE, Hyderabad, with a strong interest in IoT, VLSI, AI technologies, automation, and embedded systems. I enjoy building small, functional projects using Arduino and ESP boards.",
-  "Beyond academics, I enjoy gaming, which helps sharpen my reflexes and decision-making skills. I often spend time developing and tinkering with mini-projects using Arduino, ESP8266/32, and sensors—transforming creative ideas into functional prototypes."
+  "I'm Manoj, a passionate software engineering student with a strong interest in cybersecurity, software development, automation, and intelligent systems. I enjoy building practical projects and continuously exploring new technologies to improve my skills.",
+  
+  "Beyond academics, I enjoy coding, learning about cybersecurity tools, and working on mini-projects related to web development, networking, and AI-based applications. I like turning creative ideas into real-world solutions through technology."
 ];
 
 const rightContent = [
-  "My strengths include problem-solving, hands-on experimentation, and a solid grasp of both hardware and software integration. I've developed projects like a smart anti-theft bag, home automation system, and an environmental monitoring platform.",
-  "I aim to build a future where I can contribute to impactful tech solutions that improve everyday life. My goal is to become a well-rounded embedded systems developer who bridges the gap between hardware and intelligent software."
+  "My strengths include problem-solving, analytical thinking, and combining software with innovative technologies to create efficient solutions. I've worked on projects related to web applications, cybersecurity, AI, and automation systems.",
+
+  "My goal is to become a skilled software developer and cybersecurity engineer who can build impactful and secure technology solutions that make everyday life better."
 ];
 
 const AboutSection = () => {

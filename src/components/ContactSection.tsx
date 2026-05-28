@@ -7,15 +7,15 @@ import { Instagram, Linkedin, Github, Phone, Mail, MapPin, Send } from 'lucide-r
 import { useToast } from '@/hooks/use-toast';
 
 const socialLinks = [
-  { name: 'Instagram', icon: Instagram, href: '#', color: 'hover:text-pink-500' },
-  { name: 'LinkedIn', icon: Linkedin, href: '#', color: 'hover:text-blue-500' },
-  { name: 'GitHub', icon: Github, href: '#', color: 'hover:text-foreground' },
-  { name: 'Phone', icon: Phone, href: 'tel:+1234567890', color: 'hover:text-green-500' },
+  { name: 'Instagram', icon: Instagram, href: 'https://www.instagram.com/manoj_.619/', color: 'hover:text-pink-500' },
+  { name: 'LinkedIn', icon: Linkedin, href: 'https://www.linkedin.com/in/channa-venkata-sai-manoj/', color: 'hover:text-blue-500' },
+  { name: 'GitHub', icon: Github, href: 'https://github.com/manojchanna-312', color: 'hover:text-foreground' },
+  { name: 'Phone', icon: Phone, href: 'tel:+91 8074420441', color: 'hover:text-green-500' },
 ];
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'karthik@example.com' },
-  { icon: Phone, label: 'Phone', value: '+91 1234567890' },
+  { icon: Mail, label: 'Email', value: 'manojchanna312@gmail,com' },
+  { icon: Phone, label: 'Phone', value: '+91 8074420441' },
   { icon: MapPin, label: 'Location', value: 'Hyderabad, India' },
 ];
 

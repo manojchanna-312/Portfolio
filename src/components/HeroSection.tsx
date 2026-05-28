@@ -60,12 +60,7 @@ const HeroSection = () => {
             </div>
           </div>
         </div>
-
-        {/* Scroll indicator */}
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 animate-fade-in-up" style={{ animationDelay: '0.6s' }}>
-          <span className="text-sm text-muted-foreground">Scroll Down</span>
-          <ArrowDown className="w-5 h-5 text-primary animate-bounce" />
-        </div>
+        
       </div>
     </section>
   );

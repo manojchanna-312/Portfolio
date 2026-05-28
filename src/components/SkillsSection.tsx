@@ -6,17 +6,17 @@ const skillCategories = [
   {
     title: 'Coding & Engineering Skills',
     icon: Code,
-    skills: ['C / C++', 'Python', 'VHDL', 'Web Development (HTML, CSS, JS)', 'Firmware Debugging', 'PCB Design', 'Microcontroller Integration', 'Sensor Calibration', 'API Integration'],
+    skills: ['C / C++', 'Python', 'Web Development (HTML, CSS, JS)', 'API Integration', "SQL", "React"],
   },
   {
     title: 'Tech Domains',
     icon: Cpu,
-    skills: ['IoT', 'Embedded Systems', 'VLSI', 'Automation', 'AI Applications', 'CAD', 'Analog Electronics'],
+    skills: ['IoT', 'Embedded Systems', 'AI Applications', "Web Development", "DBMS"],
   },
   {
     title: 'Tools & Platforms',
     icon: Wrench,
-    skills: ['ESP', 'Arduino IDE', 'UltimakerCura', 'NI Multisim', 'Proteus', 'Cadence', 'Blender', 'Blynk', 'I2C / SPI / UART', 'Git & GitHub', 'Vercel', 'Postman', 'Fusion 360'],
+    skills: ['Git & GitHub', 'Vercel', 'Postman', "Firebase", "Docker"],
   },
 ];
 

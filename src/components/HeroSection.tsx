@@ -31,7 +31,7 @@ const HeroSection = () => {
             
             <div className="flex flex-wrap gap-4 pt-4 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
               <Button variant="heroOutline" size="lg" asChild>
-                <a href="#" download>
+                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
                   <Download className="w-5 h-5" />
                   My Resume
                 </a>
